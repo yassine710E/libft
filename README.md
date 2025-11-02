@@ -1,6 +1,6 @@
 # libft
 
-![libft Banner](images/picture.png)
+![libft Banner](https://github.com/yassine710E/libft/blob/c55bcc3dc18158535dafab0597b75d80d2d8c2d7/picture.png)
 
 **libft** is a foundational C project from 1337 School where I re-implemented a set of standard C library functions. This project helped me master **pointers, memory management, strings, arrays, linked lists, and C algorithms**.
 
