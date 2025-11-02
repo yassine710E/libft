@@ -2,7 +2,7 @@
 
 ![libft Banner](images/picture.png)
 
-**libft** is a foundational C project from 42 School where I re-implemented a set of standard C library functions. This project helped me master **pointers, memory management, strings, arrays, linked lists, and C algorithms**.
+**libft** is a foundational C project from 1337 School where I re-implemented a set of standard C library functions. This project helped me master **pointers, memory management, strings, arrays, linked lists, and C algorithms**.
 
 ---
 
