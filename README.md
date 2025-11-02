@@ -25,6 +25,6 @@ This strengthens **C fundamentals** and understanding of low-level operations.
 Clone the repository and build the library:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/libft.git
+git clone https://github.com/yassine710E/libft.git
 cd libft
 make
