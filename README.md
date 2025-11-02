@@ -4,17 +4,6 @@
 
 **libft** is a foundational C project from 1337 School where I re-implemented a set of standard C library functions. This project helped me master **pointers, memory management, strings, arrays, linked lists, and C algorithms**.
 
----
-
-## Table of Contents
-
-- [About](#about)  
-- [Installation](#installation)  
-- [Usage](#usage)  
-- [Functions Implemented](#functions-implemented)  
-- [Project Validation](#project-validation)  
-- [Contributing](#contributing)  
-- [License](#license)  
 
 ---
 
